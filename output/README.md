@@ -1,10 +1,10 @@
 
-  # we test 123
-  ![Github license](https://img.shields.io/badge/License-BSD%203-blue)
+  # Professional README Generator
+  ![Github license](https://img.shields.io/badge/License-APACHE%202.0-blue)
   
   ## Description
   
-  
+  This is a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package.
   
   ## Table of Content
   
@@ -25,20 +25,20 @@
   To install necessary dependecies, run the following command: 
   
   ```
-  npm i
+  npm install
   ```
   
   ## Usage
   
-  
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
   
   ## License
   
-  This project is licensed under the BSD 3 license.
+  This project is licensed under the APACHE 2.0 license.
   
   ## Contributing
   
-  
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
   
   ## Tests
   ```
@@ -46,12 +46,12 @@
   ```
   ## Questions
   
-  - Email me at ajaycoolkarni@yahoo.com
-  - Github https://www.github.com/ajaykulkarni01
+  - Email me at: ajaycoolkarni@yahoo.com
+  - Github: https://www.github.com/ajaykulkarni01
 
 ---
 © Ajay Kulkarni 
 --
-<img src="https://avatars.githubusercontent.com/ajaykulkarni01" alt="drawing" height="200" width="200"/>
+<img src="https://avatars.githubusercontent.com/ajaykulkarni01" alt="Profile image" height="200" width="200"/>
 
   
