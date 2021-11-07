@@ -34,7 +34,7 @@ const questions = [
     type: "input",
     name: "dependencies",
     message: `What command should be run to install dependencies?`,
-    default: "npm i",
+    default: "npm install",
   },
   {
     type: "input",
@@ -66,8 +66,8 @@ inquirer.prompt(questions).then(function (data) {
       profile: result.data.html_url,
       name: result.data.name,
     };
-    console.log((github.name)+"   "+(github.profile)+"   "+(github.githubImage)+"   ");
-    console.log("README has been generated!");
+    // console.log((github.name)+"   "+(github.profile)+"   "+(github.githubImage)+"   ");
+    // console.log("README has been generated!");
     fs.writeFile(
       "./output/README.md",
       generateREADME(data, github),
