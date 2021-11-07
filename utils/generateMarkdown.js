@@ -15,7 +15,7 @@ function generateMarkdown(data, github) {
       licenseImg = "https://img.shields.io/badge/License-BSD%203-blue"
       break;
     case 'None':
-    licenseImg = "no"
+    licenseImg = "https://img.shields.io/badge/License-NOT%20SPECIFIED-blue"
     break;
   }
   return `
@@ -66,13 +66,13 @@ function generateMarkdown(data, github) {
   \`\`\`
   ## Questions
   
-  - Email me at ${data.email}
-  - Github https://www.github.com/${data.username}
+  - Email me at: ${data.email}
+  - Github: https://www.github.com/${data.username}
 
 ---
 © ${github.name} 
 --
-<img src="https://avatars.githubusercontent.com/${data.username}" alt="drawing" height="200" width="200"/>
+<img src="https://avatars.githubusercontent.com/${data.username}" alt="Profile image" height="200" width="200"/>
 
   `;
 }
