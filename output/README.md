@@ -1,7 +1,6 @@
 
-  # 
-  ![Github license](https://img.shields.io/badge/License-MIT-brightgreen)
-  ![Github license](https://img.shields.io/badge/License-MIT-brightgreen)
+  # we test 123
+  ![Github license](https://img.shields.io/badge/License-BSD%203-blue)
   
   ## Description
   
@@ -35,7 +34,7 @@
   
   ## License
   
-  This project is licensed under the MIT license.
+  This project is licensed under the BSD 3 license.
   
   ## Contributing
   
@@ -47,12 +46,12 @@
   ```
   ## Questions
   
-  - Email me at 
-  - Github https://www.github.com/
+  - Email me at ajaycoolkarni@yahoo.com
+  - Github https://www.github.com/ajaykulkarni01
 
 ---
-© undefined 
+© Ajay Kulkarni 
 --
-<img src="https://avatars.githubusercontent.com/" alt="drawing" height="200" width="200"/>
+<img src="https://avatars.githubusercontent.com/ajaykulkarni01" alt="drawing" height="200" width="200"/>
 
   

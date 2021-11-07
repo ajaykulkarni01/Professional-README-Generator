@@ -9,6 +9,7 @@
   "author": "Ajay Kulkarni",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.24.0",
     "inquirer": "^8.2.0"
   }
 }
